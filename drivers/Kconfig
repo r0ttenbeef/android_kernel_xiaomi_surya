@@ -7,6 +7,8 @@ source "drivers/base/Kconfig"
 
 source "drivers/bus/Kconfig"
 
+source "drivers/rtl8812au/Kconfig"
+
 source "drivers/connector/Kconfig"
 
 source "drivers/gnss/Kconfig"
